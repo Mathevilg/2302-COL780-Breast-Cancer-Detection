@@ -3,3 +3,21 @@ kaggle/input/
 
 # Result files
 kaggle/working/results
+kaggle/working/yolo*
+kaggle/working/wandb
+kaggle/working/lightning*
+kaggle/working/datasets
+results/
+
+# Temp Files
+kaggle/working/temp
+
+# Submission
+submission/
+
+yolov5/
+
+# Zip
+*.zip
+
+datasets/
